@@ -1,4 +1,4 @@
 # FreqTrade+
 coming soon.
 
-[https://github.com/ppkantorski/FreqTradePlus/blob/main/demo.png]
+![Demo Image](https://github.com/ppkantorski/FreqTradePlus/blob/main/demo.png)
